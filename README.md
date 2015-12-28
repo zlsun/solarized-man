@@ -40,3 +40,7 @@ zgen load zlsun/solarized-man
 
 ![](http://i.imgur.com/GsCbpE8.png)
 
+## License
+
+[MIT License](LICENSE)
+
