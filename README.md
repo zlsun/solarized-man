@@ -4,7 +4,7 @@ A modified version of oh-my-zsh's plugin [colored-man-pages](https://github.com/
 
 ## Screenshots
 
-![](http://i.imgur.com/GsCbpE8.png)
+![](https://raw.githubusercontent.com/zlsun/screenshots/master/solarized-man/1.png)
 
 ## Installation
 
